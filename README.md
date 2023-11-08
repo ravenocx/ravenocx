@@ -10,12 +10,15 @@
 </div>
 
 
+
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
+<br>
+A highly skilled and passionate Software Engineer with a specialization in Backend Development. Proficient in Java, JavaScript, and Golang, with a proven track record of designing, developing, and optimizing robust backend systems for a variety of applications. Adept at collaborating with cross-functional teams to deliver scalable and efficient solutions. Committed to continuous learning, staying updated with the latest industry trends and continuously seeking opportunities for growth and innovation.
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
