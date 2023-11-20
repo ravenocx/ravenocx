@@ -31,9 +31,9 @@ A highly skilled and passionate Software Engineer with a specialization in Backe
 <!--Intro start-->
 - 🔭 I’m currently working on **GO, GIN Framework, MongoDB, InfluxDB, Redis**
 
-- 🌱 I’m currently learning **Go with GIN Framework, PostgreSQL, gRPC.**
+- 🌱 I’m currently learning **Java, Spring Boot, Microservices, etc.**
 
-- ☁️ I've got a keen interest in Software Engineering with a specialization in Back End Development. So currently, I'm also want to learn **AWS, Docker, Message Broker (Rabbit MQ), Kubernetes, etc**
+- ☁️ I've got a keen interest in Software Engineering with a specialization in Back End Development. So currently, I also want to learn **AWS, Docker, Message Broker (Rabbit MQ/kafka), Kubernetes,gRPC, etc**
 
 - 💬 Ask me about **GIN or GO-Fiber, PostgreSQL, Goroutine, etc**
 
