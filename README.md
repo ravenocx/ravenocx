@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi , I'm Haris👋</h1></summary>
+    <summary><h1 style="display: inline-block">Hi! Haris here👋</h1></summary>
   </ul>
 </div>
 
@@ -18,22 +18,15 @@
 </div>
 
 <br>
-A highly skilled and passionate Software Engineer with a specialization in Backend Development. Proficient in Java, JavaScript, and Golang, with a proven track record of designing, developing, and optimizing robust backend systems for a variety of applications. Adept at collaborating with cross-functional teams to deliver scalable and efficient solutions. Committed to continuous learning, staying updated with the latest industry trends and continuously seeking opportunities for growth and innovation.
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">The binary world is my playground</h2></summary>
-  </ul>
-</div>
+A highly skilled and passionate Software Engineer with a specialization in Backend Development. Proficient in Golang, with a proven track record of designing, developing, and optimizing robust backend systems for an backend applications. Adept at collaborating with cross-functional teams to deliver scalable and efficient solutions. Committed to continuous learning, staying updated with the latest industry trends and continuously seeking opportunities for growth and innovation.
 
 
 <!--Intro start-->
 - 🔭 I’m currently working on **GO, GIN Framework, MongoDB, InfluxDB, Redis**
 
-- 🌱 I’m currently learning **Java, Spring Boot, Microservices, etc.**
+- 🌱 I’m currently learning **Java, Javascript, DSA, Microservices, etc.**
 
-- ☁️ I've got a keen interest in Software Engineering with a specialization in Back End Development. So currently, I also want to learn **AWS, Docker, Message Broker (Rabbit MQ/kafka), Kubernetes,gRPC, etc**
+- ☁️ I've got a keen interest in Software Engineering with a specialization in Back End Development and Microservices. I also want to learn **AWS, Docker, Message Broker (Rabbit MQ/kafka), Kubernetes,gRPC, etc**
 
 - 💬 Ask me about **GIN or GO-Fiber, PostgreSQL, Goroutine, etc**
 
@@ -119,6 +112,6 @@ A highly skilled and passionate Software Engineer with a specialization in Backe
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [ritsuhaaa](https://github.com/ritsuhaaa)
+Credit: [Haris](https://github.com/ritzhu)
 
-Last Edited on: 21/11/2023
+Last Edited on: 12/01/2024
