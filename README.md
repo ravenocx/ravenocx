@@ -11,63 +11,18 @@
 
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-<br>
-A highly skilled and passionate Software Engineer with a specialization in Backend Development. Proficient in Golang, with a proven track record of designing, developing, and optimizing robust backend systems for an backend applications. Adept at collaborating with cross-functional teams to deliver scalable and efficient solutions. Committed to continuous learning, staying updated with the latest industry trends and continuously seeking opportunities for growth and innovation.
-
-
 <!--Intro start-->
-- 🔭 I’m currently working on **GO, GIN Framework, MongoDB, InfluxDB, Redis**
+- 🔭 I’m currently working on **GO, GIN, Fiber, PostgreSQL**
 
-- 🌱 I’m currently learning **Java, Javascript, DSA, Microservices, etc.**
+- 🌱 I’m currently learning **Java, DSA, Microservices, etc.**
 
 - ☁️ I've got a keen interest in Software Engineering with a specialization in Back End Development and Microservices. I also want to learn **AWS, Docker, Message Broker (Rabbit MQ/kafka), Kubernetes,gRPC, etc**
 
-- 💬 Ask me about **GIN or GO-Fiber, PostgreSQL, Goroutine, etc**
+- 💬 Ask me about **GIN or Fiber, PostgreSQL, Goroutine, etc**
 
 - 📫 Feel free to reach me out **mharis830174@gmail.com**
 
 <!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ravenocx&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ravenocx&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ravenocx&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ravenocx&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
 
 
 <!--h1 without bottom border-->
@@ -114,4 +69,4 @@ A highly skilled and passionate Software Engineer with a specialization in Backe
 ----------------------------------------------------------------------
 Credit: [Haris](https://github.com/ravenocx)
 
-Last Edited on: 12/01/2024
+Last Edited on: 13/05/2024
