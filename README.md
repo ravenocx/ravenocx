@@ -14,11 +14,9 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **GO, GIN, Fiber, PostgreSQL**
 
-- 🌱 I’m currently learning **Java, DSA, Microservices, etc.**
+- 🌱 I’m currently learning **Java, SpringBoot, Microservices, etc.**
 
-- ☁️ I've got a keen interest in Software Engineering with a specialization in Back End Development and Microservices. I also want to learn **AWS, Docker, Message Broker (Rabbit MQ/kafka), Kubernetes,gRPC, etc**
-
-- 💬 Ask me about **GIN or Fiber, PostgreSQL, Goroutine, etc**
+- ☁️ I've got a keen interest in Software Engineering with a specialization in Back End Development and Microservices.
 
 - 📫 Feel free to reach me out **mharis830174@gmail.com**
 
@@ -34,7 +32,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,java,cpp,py,html,css,js,git,docker,rabbitmq,redis,figma,github,idea,linux,bash,mongodb,mysql,postgres,postman,py,vscode,stackoverflow&perline=14" />
+    <img src="https://skillicons.dev/icons?i=go,java,py,html,css,js,git,docker,rabbitmq,redis,figma,github,idea,linux,bash,mongodb,mysql,postgres,postman,py,vscode,stackoverflow&perline=14" />
   </a>
 </p>
 
@@ -59,7 +57,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ravenocx&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
   
 </div>
 
@@ -69,4 +67,4 @@
 ----------------------------------------------------------------------
 Credit: [Haris](https://github.com/ravenocx)
 
-Last Edited on: 13/05/2024
+Last Edited on: 21/09/2024
