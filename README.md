@@ -23,6 +23,11 @@
 <!--Intro end-->
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
