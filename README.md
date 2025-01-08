@@ -22,13 +22,7 @@
 
 <!--Intro end-->
 
-<!--START_SECTION:waka-->
 
-```txt
-Go   3 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
-```
-
-<!--END_SECTION:waka-->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
